@@ -23,7 +23,7 @@
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://github.com/Arun9080/-ANYDLBOT.git)](https://heroku.com/deploy)
 
 #### The Hard Way
 
